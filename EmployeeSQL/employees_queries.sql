@@ -1,3 +1,7 @@
+-- University of California Irvine School of Continuing Education
+-- Data Analytics & Visualization Boot Camp Module 9 Challenge
+-- Erik Arbelo-Nguyễn
+
 SELECT
 	emp.emp_no "Employee No.",
 	emp.last_name "Last Name",
